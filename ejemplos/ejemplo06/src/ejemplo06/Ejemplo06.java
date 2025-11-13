@@ -44,8 +44,7 @@ public class Ejemplo06 {
         edad = entrada.nextInt();
         System.out.println("Ingrese dia de pago");
         dia_pago = entrada.nextInt();
-     
-       
+        
         total = 25;
         descuento = total * 0.05;
         total_final = total + descuento;
